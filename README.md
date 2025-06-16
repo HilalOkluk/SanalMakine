@@ -96,14 +96,14 @@ el_hesap_makinesi/
 
 ---
 
-## 📌 Geliştirici
+## 👤 Geliştirici
 
-**👩‍💻 Hilal Öklük**  
-📧 İletişim: [GitHub Profilim](https://github.com/HilalOkluk)  
-💡 İlgi alanları: Yapay zeka, bilgisayarla görme, etkileşimli sistemler
+Bu proje **Hilal Öklük** tarafından geliştirilmemiştir. Eğitim amaçlı olarak farklı kaynaklardan faydalanılmış ve referans kodlar temel alınarak yeniden düzenlenmiştir.
 
----
+Kaynak alınan projelerden bazıları:
 
-## 📄 Lisans
+- [`cvzone` örnekleri – Murtaza's Workshop](https://github.com/cvzone/cvzone)
+- YouTube üzerindeki el takibi ve sanal klavye/hesap makinesi projeleri
+- Açık kaynaklı OpenCV projeleri
 
-MIT Lisansı – Bu projeyi dilediğiniz gibi kullanabilir, değiştirebilir ve paylaşabilirsiniz.
+Proje, yalnızca **öğrenme ve gösterim amacıyla** uyarlanmıştır. Orijinal geliştiricilere saygıyla 🙏
